@@ -6,7 +6,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that enables intelli
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
 ![LangChain](https://img.shields.io/badge/LangChain-Latest-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Chatbot Interface](q&achatbot1.png)
+![Chatbot Interface](q&a chatbot 1.png)
 
 ## ✨ Features
 
